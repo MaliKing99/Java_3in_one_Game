@@ -1,7 +1,7 @@
 /* ============================================================
    app.js — Core platform: Auth, Navigation, Leaderboard, Toast & Sound
    ============================================================ */
-const API = 'http://localhost:8080/api';
+const API = '/api';
 
 /* ---- Token Storage ---- */
 const Store = {
